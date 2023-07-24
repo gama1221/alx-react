@@ -125,3 +125,6 @@ Using the folder named task_3. **Set up a development server:**
 - When running the dev server, your code should work on http://localhost:8564/.
 - When running Webpack, your javascript and html files should be generated in a public folder.
 - Opening your main file should not generate any error in the console.
+
+# Author
+. **LinkedIn** - [getinet-mekonnen](https://www.linkedin.com/in/getinet-mekonnen/)
