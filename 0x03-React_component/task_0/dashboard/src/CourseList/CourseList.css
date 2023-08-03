@@ -1,25 +1,14 @@
-table {
-  margin-top: 2em;
-  width: 100%;
-  border: 1px solid #ddd;
-  font-size: 1.2rem;
-  margin-bottom: 15em;
+.CourseList__container {
+    border: 1px solid #ccc;
+    margin: 2rem auto;
+    width: 80%;
 }
-
-th {
-  border-bottom: 1px solid #ddd;
+  
+.CourseList__container th {
+    padding: .3rem 0;
+    border-bottom: 1px solid #ccc;
 }
-
-th,
-td {
-  width: 80%;
-}
-
-table {
-  margin-left: auto;
-  margin-right: auto;
-}
-
-tr:nth-child(2) {
-  text-align: left;
+  
+.CourseList__container tr:nth-of-type(2) {
+    text-align: left;
 }
